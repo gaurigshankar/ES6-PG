@@ -1,5 +1,5 @@
 export default class Parent {
-  method1(param){
+  parentMethod(param){
     console.log("Parent Method :: "+param);
   }
 }
